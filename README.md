@@ -29,7 +29,7 @@ _in no particular order_
 
 > Just the best general purpose code editor for macOS in existence
 
-#### JetBrains Golang | IntelliJ | ...
+#### JetBrains Goland | IntelliJ | ...
 
 > The best suite of IDEs money can buy right now
 
