@@ -1,3 +1,5 @@
+## About me
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My favourites
+
+_in no particular order_
+
+#### macOS
+
+> My most beloved operating system to date
+
+#### Visual Studio Code
+
+> Just the best general purpose code editor for macOS in existence
+
+#### JetBrains Golang | IntelliJ | ...
+
+> The best suite of IDEs money can buy right now
+
+#### Go
+
+> A minimalistic programming language that yields great powers
+
+#### Elm
+
+> A functional programming language for the web frontend to get rid of nasty JS runtime errors
+
+#### Svelte
+
+> Currently the best frontend framework/library/compiler next to Elm
+
+(This statement might be outdated tomorrow though)
