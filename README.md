@@ -23,37 +23,41 @@ _in no particular order_
 
 #### macOS
 
-> My most beloved operating system to date
+> My most beloved operating system to date.
 
 #### Visual Studio Code
 
-> Just the best general purpose code editor for macOS in existence
+> Just the best general purpose code editor for macOS in existence.
 
 #### JetBrains Goland | IntelliJ | ...
 
-> The best suite of IDEs money can buy right now
+> The best suite of IDEs money can buy right now.
 
 #### Go
 
-> A minimalistic programming language that yields great powers
+> A minimalistic programming language that yields great powers.
 
 #### Elm
 
-> A functional programming language for the web frontend to get rid of nasty JS runtime errors
+> The only web frontend language anyone should ever use.
+>
+> Functional. Clean. Safe. Reliable. Delightful.
 
 #### Typescript
 
-> Basically like Javascript, but in good (because types)
+> Basically like Javascript, but in good (because types).
+> 
+> (Yet still no match for Elm)
 
 #### Svelte
 
-> Currently the best frontend framework/library/compiler next to Elm
+> Currently the best frontend framework/library/compiler next to Elm.
 > 
 > (This statement might be outdated tomorrow though)
 
 #### Swift
 
-> THE language to build native iOS apps
+> THE language to build native iOS apps.
 
 #### Flutter
 
