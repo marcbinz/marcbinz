@@ -44,5 +44,4 @@ _in no particular order_
 #### Svelte
 
 > Currently the best frontend framework/library/compiler next to Elm
-
-(This statement might be outdated tomorrow though)
+> (This statement might be outdated tomorrow though)
