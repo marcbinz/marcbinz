@@ -41,8 +41,22 @@ _in no particular order_
 
 > A functional programming language for the web frontend to get rid of nasty JS runtime errors
 
+#### Typescript
+
+> Basically like Javascript, but in good (because types)
+
 #### Svelte
 
 > Currently the best frontend framework/library/compiler next to Elm
 > 
 > (This statement might be outdated tomorrow though)
+
+#### Swift
+
+> THE language to build native iOS apps
+
+#### Flutter
+
+> Building cross-plattform apps the easy way?
+> 
+> (I don't know yet, but want to explore)
