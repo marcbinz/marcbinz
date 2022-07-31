@@ -10,8 +10,6 @@
 
 ## My favourite tools
 
-_in no particular order_
-
 #### macOS
 
 > My most beloved operating system to date.
