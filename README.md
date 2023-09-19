@@ -1,57 +1,57 @@
-## About me
+## About Me
 
 ### Hello there 👋
 
-🔭 I’m currently working on a video game exploration and tracking application (not yet public).
+I'm passionate about creating innovative solutions in the world of software development. Currently, my focus is:
 
-🌱 I’m currently learning Go, Elm and Svelte.
+👨🏻‍🎨 **SurrealDB Object Mapper and Query Builder** - I'm working on a typesafe object mapper and query builder called [**SOM**](https://github.com/go-surreal/som) for SurrealDB.
 
-💬 Ask me about my favourite tools, programming languages and frameworks.
+👨‍💻 **Tech Enthusiast** - I'm actively engaged with Go and Svelte, exploring their capabilities and pushing boundaries.
 
-## My favourite tools
+🌱 **Exploring SurrealDB** - I'm delving deep into SurrealDB, uncovering its potential and pushing the boundaries of what's possible.
 
-#### macOS
+🔭 **Current Project** - At the moment, I'm developing a video game exploration and tracking application, though it's not yet public. Stay tuned for updates!
 
-> My most beloved operating system to date.
+💬 **Ask Me Anything** - Feel free to reach out and ask me about my favorite tools, programming languages, frameworks, or anything else related to software development.
 
-#### Visual Studio Code
+## My Favorite Tools
 
-> Just the best general purpose code editor for macOS in existence.
+#### macOS 🍎
 
-#### JetBrains Goland | IntelliJ | ...
+> When it comes to software development, I believe macOS offers an unparalleled experience.
 
-> The best suite of IDEs money can buy right now.
+#### JetBrains Goland | IntelliJ | ... 💡
 
-## My favourite languages & frameworks
+> The JetBrains suite of IDEs is the gold standard for software development. They're worth every penny.
 
-#### Go
+#### Visual Studio Code 📝
 
-> A minimalistic programming language that yields great powers.
+> Visual Studio Code is my go-to code editor. It's versatile, open-source, and well-maintained.
 
-#### Elm
+## My Favorite Languages & Frameworks
 
-> The only web frontend language anyone should ever use.
->
-> Functional. Clean. Safe. Reliable. Delightful.
+#### Go 🐹
 
-#### Typescript
+> Go is a minimalist programming language with immense power, making it one of my top choices for the backend.
 
-> Basically like Javascript, but in good (because types).
-> 
-> (Yet still no match for Elm)
+#### TypeScript 📜
 
-#### Svelte
+> TypeScript, an enhanced version of JavaScript with strong typing, is my go-to choice for building robust frontend applications.
 
-> Currently the best frontend framework/library/compiler next to Elm.
-> 
-> (This statement might be outdated tomorrow though)
+#### Svelte 🚀
 
-#### Swift
+> Svelte is my current favorite front-end framework/library/compiler. Its simplicity and performance are unmatched.
 
-> THE language to build native iOS apps.
+#### Elm 🌳
 
-#### Flutter
+> Elm, while fantastic in terms of functional, clean, safe, and reliable web development, has lost a bit of momentum in recent times due to lack of certain features like SSR.
 
-> Building cross-plattform apps the easy way?
-> 
-> (I don't know yet, but want to explore)
+#### Swift 📱
+
+> Swift is the language of choice for building native iOS apps, offering a seamless development experience.
+
+#### Flutter 📦
+
+> Flutter has piqued my interest as a potential solution for cross-platform app development. I'm eager to explore its capabilities.
+
+Feel free to connect with me, explore my projects, or discuss any topics related to software development. Let's build something amazing together! 👨‍💻🚀
