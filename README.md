@@ -34,7 +34,7 @@ I'm passionate about creating innovative solutions in the world of software deve
 
 > Go is a minimalist programming language with immense power, making it one of my top choices for the backend.
 
-#### TypeScript 📜
+#### TypeScript 📝
 
 > TypeScript, an enhanced version of JavaScript with strong typing, is my go-to choice for building robust frontend applications.
 
@@ -50,11 +50,11 @@ I'm passionate about creating innovative solutions in the world of software deve
 
 > Rust is a systems programming language known for its emphasis on safety, concurrency, and performance, making it well-suited for low-level programming tasks. I am learning Rust, particularly in conjunction with the Bevy engine, to explore game development because Rust's strong memory safety guarantees and Bevy's entity-component system provide a robust and efficient foundation for creating high-performance and reliable game applications.
 
-#### Swift 📱
+#### Swift 🍏
 
 > Swift is the language of choice for building native iOS apps, offering a seamless development experience.
 
-#### Flutter 📦
+#### Flutter 🦋
 
 > Flutter has piqued my interest as a potential solution for cross-platform app development. I'm eager to explore its capabilities.
 
