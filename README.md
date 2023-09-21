@@ -46,6 +46,10 @@ I'm passionate about creating innovative solutions in the world of software deve
 
 > Elm, while fantastic in terms of functional, clean, safe, and reliable web development, has lost a bit of momentum in recent times due to lack of certain features like SSR.
 
+#### Rust 🦀
+
+> Rust is a systems programming language known for its emphasis on safety, concurrency, and performance, making it well-suited for low-level programming tasks. I am learning Rust, particularly in conjunction with the Bevy engine, to explore game development because Rust's strong memory safety guarantees and Bevy's entity-component system provide a robust and efficient foundation for creating high-performance and reliable game applications.
+
 #### Swift 📱
 
 > Swift is the language of choice for building native iOS apps, offering a seamless development experience.
@@ -53,5 +57,9 @@ I'm passionate about creating innovative solutions in the world of software deve
 #### Flutter 📦
 
 > Flutter has piqued my interest as a potential solution for cross-platform app development. I'm eager to explore its capabilities.
+
+#### Java ☕
+
+> Java is a widely-used, versatile programming language known for its platform independence and robustness, making it suitable for a wide range of applications. I have used Java primarily for corporate-level web applications in the past because Java's portability, extensive libraries, and enterprise features allowed me to develop scalable and secure web solutions that meet the demands of large organizations and business processes.
 
 Feel free to connect with me, explore my projects, or discuss any topics related to software development. Let's build something amazing together! 👨‍💻🚀
